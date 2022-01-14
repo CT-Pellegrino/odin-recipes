@@ -1,0 +1,15 @@
+.bodyIndex {
+    background-color: turquoise;
+    color: yellow;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.olIndex {
+    text-align: center;
+    color: tomato;
+    font-weight: bolder;
+    list-style-position: inside;
+}
+
+/* CSS Above is for index.html */
